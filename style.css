@@ -109,6 +109,9 @@ nav li a:hover{
 .profile{
     margin-right: 22px;
 }
+.header-link{
+    justify-content: flex-end;
+}
 .header-link a{
     padding: 12px 24px;
     background-color: #FFFFFF;
